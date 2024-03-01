@@ -10,3 +10,4 @@ export class User {
   @IsDefined()
   email: string;
 }
+
